@@ -2,7 +2,7 @@ JsonpData({
     "lines":[
         {
             "title":"*天启-推荐线路-首选",
-            "host":"http://tq1.dian668.com"
+            "host":"http://154.39.249.35:4848"
         },
         {
             "title":"*天启-临时线路-备用",
